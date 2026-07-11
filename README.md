@@ -3,34 +3,52 @@ solution1
 
 -https://school.programmers.co.kr/learn/courses/30/lessons/12909
 
+-https://school.programmers.co.kr/learn/courses/30/lessons/42587
+
 solution2
 
 -https://school.programmers.co.kr/learn/courses/30/lessons/42577
+
+-https://school.programmers.co.kr/learn/courses/30/lessons/12939
 
 solution3
 
 -https://school.programmers.co.kr/learn/courses/30/lessons/42578
 
+-https://school.programmers.co.kr/learn/courses/30/lessons/12973
+
 solution4
 
 -https://school.programmers.co.kr/learn/courses/30/lessons/42586
+
+-https://school.programmers.co.kr/learn/courses/30/lessons/12899
 
 solution5
 
 -https://school.programmers.co.kr/learn/courses/30/lessons/42583
 
+-https://school.programmers.co.kr/learn/courses/30/lessons/12982
+
 solution6
 
 -https://school.programmers.co.kr/learn/courses/30/lessons/42842
+
+-https://school.programmers.co.kr/learn/courses/30/lessons/70129
 
 solution7
 
 -https://school.programmers.co.kr/learn/courses/30/lessons/76502
 
+-https://school.programmers.co.kr/learn/courses/30/lessons/64065
+
 solution8
 
 -https://school.programmers.co.kr/learn/courses/30/lessons/42746
 
+-https://school.programmers.co.kr/learn/courses/30/lessons/42747
+
 solution9
 
 -https://school.programmers.co.kr/learn/courses/30/lessons/42839
+
+-https://school.programmers.co.kr/learn/courses/30/lessons/12941
