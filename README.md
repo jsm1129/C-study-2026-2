@@ -15,7 +15,7 @@ solution3
 
 -https://school.programmers.co.kr/learn/courses/30/lessons/42578
 
--https://school.programmers.co.kr/learn/courses/30/lessons/12973
+-https://school.programmers.co.kr/learn/courses/30/lessons/43162
 
 solution4
 
