@@ -19,9 +19,9 @@ solution3
 
 solution4
 
--https://school.programmers.co.kr/learn/courses/30/lessons/42586
+-https://school.programmers.co.kr/learn/courses/30/lessons/12945
 
--https://school.programmers.co.kr/learn/courses/30/lessons/12899
+-https://school.programmers.co.kr/learn/courses/30/lessons/138476
 
 solution5
 
