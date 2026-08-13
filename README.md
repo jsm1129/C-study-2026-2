@@ -43,9 +43,9 @@ solution7
 
 solution8
 
--https://school.programmers.co.kr/learn/courses/30/lessons/42746
+-https://school.programmers.co.kr/learn/courses/30/lessons/92335
 
--https://school.programmers.co.kr/learn/courses/30/lessons/42747
+-https://school.programmers.co.kr/learn/courses/30/lessons/49993
 
 solution9
 
