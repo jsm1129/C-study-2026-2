@@ -37,9 +37,9 @@ solution6
 
 solution7
 
--https://school.programmers.co.kr/learn/courses/30/lessons/76502
+-https://school.programmers.co.kr/learn/courses/30/lessons/131127
 
--https://school.programmers.co.kr/learn/courses/30/lessons/64065
+-https://school.programmers.co.kr/learn/courses/30/lessons/76502
 
 solution8
 
