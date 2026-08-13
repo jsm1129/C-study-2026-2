@@ -31,9 +31,9 @@ solution5
 
 solution6
 
--https://school.programmers.co.kr/learn/courses/30/lessons/42842
+-https://school.programmers.co.kr/learn/courses/30/lessons/92341
 
--https://school.programmers.co.kr/learn/courses/30/lessons/70129
+-https://school.programmers.co.kr/learn/courses/30/lessons/49994
 
 solution7
 
